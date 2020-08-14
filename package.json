@@ -43,7 +43,7 @@
     "cross-env": "^7.0.2",
     "electromon": "^1.0.10",
     "electron": "^9.1.0",
-    "electron-builder": "^22.7.0",
+    "electron-builder": "^22.8.0",
     "husky": "^4.2.5",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2",
