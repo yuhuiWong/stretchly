@@ -42,7 +42,7 @@
     "chai-as-promised": "^7.1.1",
     "cross-env": "^7.0.2",
     "electromon": "^1.0.10",
-    "electron": "^9.1.0",
+    "electron": "^9.4.0",
     "electron-builder": "^22.7.0",
     "husky": "^4.2.5",
     "mocha": "^8.0.1",
